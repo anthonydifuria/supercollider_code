@@ -2,6 +2,7 @@
 Supercollider example code
 
 - Reson
+- Additive Synth
 - Audio Player
 - Piccolo Synth
 
