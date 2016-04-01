@@ -1,4 +1,8 @@
 # supercollider_code
 Supercollider example code
 
-- Reson.scd
+- Reson
+- Audio Player
+- Piccolo Synth
+
+www.anthonydifuria.com
